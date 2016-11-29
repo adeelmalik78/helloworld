@@ -1,0 +1,4 @@
+INFO 11/29/16 11:23 AM: liquibase: Successfully acquired change log lock
+INFO 11/29/16 11:23 AM: liquibase: Creating database history table with name: DATICAL_USER.DATABASECHANGELOG
+INFO 11/29/16 11:23 AM: liquibase: Reading from DATICAL_USER.DATABASECHANGELOG
+INFO 11/29/16 11:23 AM: liquibase: Successfully released change log lock
